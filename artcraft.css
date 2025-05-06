@@ -184,7 +184,7 @@ li:hover #sub{
 	border:1px solid black;
 	height:700px;
 	width:100%;
-	background-image:url(light.jpg);
+	background-image:url(light;
 	background-size:100% 100%;
 }
 #sectionh11{
@@ -318,7 +318,7 @@ li:hover #sub{
 	transition:3s;
 }
 #s3s2d1{
-	background-image:url(coffeecup1.jpg);
+	background-image:url(coffeecup1;
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -331,7 +331,7 @@ li:hover #sub{
 	color:white;
 }
 #s3s2d2{
-	background-image:url(/bulb1.jpg);
+	background-image:url(/bulb1;
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -453,19 +453,19 @@ li:hover #sub{
 	background-size:100% 100%;
 }
 #s3s3d1:hover{
-	background-image:url(/sblue.jpg);
+	background-image:url(sblue.jpg);
 	background-size:100% 100%;
 }
 #s3s3d2:hover{
-	background-image:url(/plate2.jpg);
+	background-image:url(plate2.jpg);
 	background-size:100% 100%;
 }
 #s3s3d3:hover{
-	background-image:url(/jol2.jpg);
+	background-image:url(jol2.jpg);
 	background-size:100% 100%;
 }
 #s3s3d4:hover{
-	background-image:url(/feather2.jpg);
+	background-image:url(feather2.jpg);
 	background-size:100% 100%;
 }
 #s4{
