@@ -318,7 +318,7 @@ li:hover #sub{
 	transition:3s;
 }
 #s3s2d1{
-	background-image:url(coffeecup1.jpg);
+	background-image:url(/coffeecup1.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
