@@ -331,7 +331,7 @@ li:hover #sub{
 	color:white;
 }
 #s3s2d2{
-	background-image:url(images/bulb1.jpg);
+	background-image:url(/bulb1.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -344,7 +344,7 @@ li:hover #sub{
 	color:white;
 }
 #s3s2d3{
-	background-image:url(images/bracelet1.jpg);
+	background-image:url(/bracelet1.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -357,7 +357,7 @@ li:hover #sub{
 	color:white;
 }
 #s3s2d4{
-	background-image:url(images/bangles1.jpg);
+	background-image:url(/bangles1.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -384,7 +384,7 @@ li:hover #sub{
 	transition:3s;
 }
 #s3s3d1{
-	background-image:url(images/sbrown.jpg);
+	background-image:url(/sbrown.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -397,7 +397,7 @@ li:hover #sub{
 	color:white;
 }
 #s3s3d2{
-	background-image:url(images/plate1.jpg);
+	background-image:url(/plate1.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -410,7 +410,7 @@ li:hover #sub{
 	color:white;
 }
 #s3s3d3{
-	background-image:url(images/jol1.jpg);
+	background-image:url(/jol1.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -423,7 +423,7 @@ li:hover #sub{
 	color:white;
 }
 #s3s3d4{
-	background-image:url(images/feather1.jpg);
+	background-image:url(/feather1.jpg);
 	background-size:100% 100%;
 	background-repeat:no-repeat;
 	border-radius:4px;
@@ -437,35 +437,35 @@ li:hover #sub{
 }
 
 #s3s2d1:hover{
-	background-image:url(images/coffeecup2.jpg);
+	background-image:url(/coffeecup2.jpg);
 	background-size:100% 100%;
 }
 #s3s2d2:hover{
-	background-image:url(images/bulb2.jpg);
+	background-image:url(/bulb2.jpg);
 	background-size:100% 100%;
 }
 #s3s2d3:hover{
-	background-image:url(images/bracelet2.jpg);
+	background-image:url(/bracelet2.jpg);
 	background-size:100% 100%;
 }
 #s3s2d4:hover{
-	background-image:url(images/bangles2.jpg);
+	background-image:url(/bangles2.jpg);
 	background-size:100% 100%;
 }
 #s3s3d1:hover{
-	background-image:url(images/sblue.jpg);
+	background-image:url(/sblue.jpg);
 	background-size:100% 100%;
 }
 #s3s3d2:hover{
-	background-image:url(images/plate2.jpg);
+	background-image:url(/plate2.jpg);
 	background-size:100% 100%;
 }
 #s3s3d3:hover{
-	background-image:url(images/jol2.jpg);
+	background-image:url(/jol2.jpg);
 	background-size:100% 100%;
 }
 #s3s3d4:hover{
-	background-image:url(images/feather2.jpg);
+	background-image:url(/feather2.jpg);
 	background-size:100% 100%;
 }
 #s4{
